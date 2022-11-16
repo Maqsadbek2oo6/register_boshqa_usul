@@ -28,7 +28,7 @@ class Registretion_form():
 
 royx = Registretion_form()
 royx.register('Ali', 'Aliyev', 'parol123', 'parol123')
-print("Xatolik yuz berdi")
+print("Xatolik yuz bermadi")
 
 
 royx1 = Registretion_form()
